@@ -1,0 +1,31 @@
+html, body{
+	height: 100%;
+	width:100%;
+}
+section.top{
+	height:100%;
+	width:100%;
+	background-image: url("../img/nairobi.jpg");
+	background-size: cover; 
+}
+div.top-wrapper{
+	height:100%;
+	width:100%;
+	background-color: rgba(0,0,0,0.4);
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+	padding: 0;
+}
+div.top-wrapper div{
+	padding:50px;
+}
+div.top-wrapper div i{
+	padding:20px;
+}
+a{
+	text-decoration:none;
+	color:inherit;
+}
