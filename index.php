@@ -47,7 +47,7 @@
 					<li class="hidden"><a href="#page-top"></a></li>
 					<li class="page-scroll"><a href="#portfolio">Portfolio</a></li>
 					<li class="page-scroll"><a href="#about">About</a></li>
-					<li><a href="#contact"><button type="button" class="btn btn-info" data-toggle="modal" data-target="#contactMeModal">Contact</button></a></li>
+					<li class="page-scroll"><a href="#contact">Contact</a></li>
 					<li><a href="blog.php">Blog</a></li>
 				</ul>
 			</div>
@@ -90,52 +90,16 @@
 					<hr class="about">
 				</div>
 				<div class="col-lg-4">
-					<p>Victor is also a tech enthusiast. He picked up coding as a hobby which has since morphed into a passion. He started with Python and now marvels at EmberJS. He lives by the code and thinks a line of code a day will solve a problem somewhere. He is excited about this.</p>
+					<p>On the side he loves to read books and dreams of building a library one day. On this find him reading fiction dramas, historical books. He's done a few books and thinks Ken Follett is a plorific writer.</p>
 					<hr class="about">
 				</div>
 			</div>
 		</div>
 	</section>
-	<!-- Modal -->
-<div id="contactMeModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-
-    <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Contact Me</h4>
-      </div>
-      <div class="modal-body">
-      	<form>
-	        <div class="form-group">
-	        	<label for="name">Name:</label>
-	        	<input type="text" name="name" id="name" placeholder="Enter your name" required="required" class="form-control">        	
-	        </div>
-	        <div class="form-group">
-	        	<label for="email">Email Address:</label>
-	        	<input type="text" name="email" id="email" placeholder="Enter your email" required="required" class="form-control">        	
-	        </div>
-	        <div class="form-group">
-	        	<label for="message">Message:</label>
-	        	<textarea id="message"  required="required"  class="form-control"></textarea>        	
-	        </div>
-	       </form>
-      </div>
-      <div class="modal-footer">
-      	<button type="button" class="btn btn-default" data-dismiss="modal">Submit</button>
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-
-  </div>
-</div>
 
 
 
-
-
-
+<!-- Scripts at the bottom of page so it loads faster -->
 	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/scripts.js"></script>
