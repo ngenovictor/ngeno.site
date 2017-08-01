@@ -161,32 +161,25 @@
 				<div class="row">
 					<div class="footer-col col-md-4">
 						<h3>Location</h3>
-						<p>3481 Melrose Place
-						<br>Beverly Hills, CA 90210</p>
+						<p>Nairobi, Kenya</p>
 					</div>
 					<div class="footer-col col-md-4">
 						<h3>Around the Web</h3>
 						<ul class="list-inline">
 							<li>
-								<a href="#" class="btn-social btn-outline"><span class="sr-only">Facebook</span><i class="fa fa-fw fa-facebook"></i></a>
+								<a href="https://plus.google.com/+VictorNgeno321" class="btn-social btn-outline"><span class="sr-only">Google Plus</span><i class="fa fa-fw fa-google-plus"></i></a>
 							</li>
 							<li>
-								<a href="#" class="btn-social btn-outline"><span class="sr-only">Google Plus</span><i class="fa fa-fw fa-google-plus"></i></a>
+								<a href="https://twitter.com/veekay254" class="btn-social btn-outline"><span class="sr-only">Twitter</span><i class="fa fa-fw fa-twitter"></i></a>
 							</li>
 							<li>
-								<a href="#" class="btn-social btn-outline"><span class="sr-only">Twitter</span><i class="fa fa-fw fa-twitter"></i></a>
-							</li>
-							<li>
-								<a href="#" class="btn-social btn-outline"><span class="sr-only">Linked In</span><i class="fa fa-fw fa-linkedin"></i></a>
-							</li>
-							<li>
-								<a href="#" class="btn-social btn-outline"><span class="sr-only">Dribble</span><i class="fa fa-fw fa-dribbble"></i></a>
+								<a href="https://www.linkedin.com/in/ngenovictor/" class="btn-social btn-outline"><span class="sr-only">Linked In</span><i class="fa fa-fw fa-linkedin"></i></a>
 							</li>
 						</ul>
 					</div>
 					<div class="footer-col col-md-4">
-						<h3>About Freelancer</h3>
-						<p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+						<h3>Message</h3>
+						<p>Feel free to contact me, leave a feedback of anything and share your thoughts.  </p>
 					</div>
 				</div>
 			</div>
@@ -195,7 +188,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						Copyright &copy; Your Website 2016
+						Copyright &copy; <a href="/">Veekay254</a> 2017
 					</div>
 				</div>
 			</div>
@@ -204,9 +197,9 @@
 
 	<!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
 	<div class="scroll-top page-scroll hidden-sm hidden-xs hidden-lg hidden-md">
-	<a class="btn btn-primary" href="#page-top">
-	<i class="fa fa-chevron-up"></i>
-	</a>
+		<a class="btn btn-primary" href="#page-top">
+			<i class="fa fa-chevron-up"></i>
+		</a>
 	</div>
 
 
