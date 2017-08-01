@@ -103,7 +103,7 @@
 			<div class="row">
 				<div class="col-lg-12 text-center">
 					<h2>Contact Me</h2>
-					<hr class="star-primary">
+					<hr class="star-primary about">
 				</div>
 			</div>
 			<div class="row">
@@ -125,13 +125,13 @@
 								<p class="help-block text-danger"></p>
 							</div>
 						</div>
-						<div class="row control-group">
+<!-- 						<div class="row control-group">
 							<div class="form-group col-xs-12 floating-label-form-group controls">
 								<label for="phone">Phone Number</label>
 								<input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
 								<p class="help-block text-danger"></p>
 							</div>
-						</div>
+						</div> -->
 						<div class="row control-group">
 							<div class="form-group col-xs-12 floating-label-form-group controls">
 								<label for="message">Message</label>
@@ -143,7 +143,7 @@
 						<div id="success"></div>
 						<div class="row">
 							<div class="form-group col-xs-12">
-								<button type="submit" class="btn btn-success btn-lg">Send</button>
+								<button type="submit" class="btn btn-default btn-lg">Send</button>
 							</div>
 						</div>
 					</form>

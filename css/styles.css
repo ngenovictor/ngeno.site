@@ -189,6 +189,16 @@ hr.about{
   max-width: 250px;
   /*margin: 25px auto 30px;*/
 }
+
+/*hr.star-primary.about{
+  background: #18BC9C;
+}*/
+
+section#contact{
+  background: #18BC9C;
+  /*color:;*/
+}
+
 .floating-label-form-group {
   position: relative;
   margin-bottom: 0;
